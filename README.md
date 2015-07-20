@@ -38,8 +38,8 @@ server {
     listen 443 ssl;
     server_name example.com;
 
-    ssl_certificate      /etc/ssl/your-domain.crt;
-    ssl_certificate_key  /etc/ssl/your-domain.key;
+    ssl_certificate      /etc/ssl/example.crt;
+    ssl_certificate_key  /etc/ssl/example.key;
 
     ssl_session_cache    shared:SSL:1m;
     ssl_session_timeout  5m;
