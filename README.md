@@ -1,7 +1,7 @@
 # Reverse-Proxy-for-Google
 [Nginx] setup Nginx as a reverse proxy for Google
 
-#### configuration
+#### Configuration
 ```nginx
 server {
     listen 80;
@@ -23,8 +23,8 @@ server {
     }
 }
 ```
-
-#### using SSL
+<br>
+#### Using SSL
 ```nginx
 server {
     listen 80;
