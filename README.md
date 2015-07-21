@@ -23,7 +23,7 @@ server {
     }
 }
 ```
-OK, type in your domain name (such as example.com) on the browser, you can access Google now, even in `China`. Keep on going
+OK, type in your domain name on the browser, you can access Google now, even in `China`. Keep on going
 <br>
 #### Using SSL
 ```nginx
